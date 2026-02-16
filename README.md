@@ -27,11 +27,15 @@ Matplotlib y Seaborn para visualizaciones.
 
 Google Colab como entorno de ejecución del notebook.
 
-🗂️ Estructura del repositorio
+## 🗂️ Estructura del repositorio
+
+```
 Challenge_TelecomX_LATAM/
 ├── notebooks/
 │   └── churn_analysis.ipynb
 └── README.md
+```
+
 
 ▶️ Cómo ejecutar el proyecto
 
