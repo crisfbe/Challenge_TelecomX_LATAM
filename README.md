@@ -31,8 +31,7 @@ Google Colab como entorno de ejecución del notebook.
 
 ```
 Challenge_TelecomX_LATAM/
-├── notebooks/
-│   └── churn_analysis.ipynb
+├── churn_analysis.ipynb
 └── README.md
 ```
 
